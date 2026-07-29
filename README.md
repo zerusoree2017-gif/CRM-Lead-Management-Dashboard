@@ -21,8 +21,16 @@ This project demonstrates professional CRM dashboards and KPI reporting solution
 - n8n
 - Google Apps Script
 
-## 💼 Business Value
+  ## 💼 Business Value
+
 This solution helps businesses automate reporting, track KPIs, improve lead management, reduce manual work, and make faster business decisions.
+
+## 📈 Results
+
+- Automated KPI reporting
+- Improved CRM workflow
+- Faster business insights
+- Reduced manual reporting
 
 ## 📸 Project Screenshots
 
@@ -45,8 +53,9 @@ This solution helps businesses automate reporting, track KPIs, improve lead mana
 ![Smart Automation Hub](Smart%20Automation%20Hub%20Dynamic%20Charts%20_%20Error%20Free%20Logic.webp)
 
 
+
 ## 👨‍💻 Author
-**Zerihun**
+**Zerihun Abera**
 
 **CRM & Lead Automation Specialist
 HubSpot | Google Sheets | Google Workspace | Zapier | n8n**
