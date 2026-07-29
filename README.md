@@ -53,7 +53,6 @@ This solution helps businesses automate reporting, track KPIs, improve lead mana
 ![Smart Automation Hub](Smart%20Automation%20Hub%20Dynamic%20Charts%20_%20Error%20Free%20Logic.webp)
 
 
-
 ## 👨‍💻 Author
 **Zerihun Abera**
 
