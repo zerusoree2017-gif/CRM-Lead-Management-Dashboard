@@ -73,8 +73,8 @@ Lead Source → CRM Database → Google Sheets → KPI Dashboard → Gmail Notif
 ![CRM Data Management Dashboard](CRM_Data_Management_Sample.png)
 ### Custom Google Sheets Lead Tracking Dashboard
 ![Custom Google Sheets Lead Tracking Dashboard](Custom%20Google%20Sheets%20Lead%20Tracking%20Dashboard%20with%20CRM%20Automation.webp)
-### Automated KPI Dashboard
-![Automated KPI Dashboard](Automated%20KPI%20Dashboard%20(Google%20Sheets%20%26%20Excel).png)
+### Automate your Business growth and Data Dashboards
+![Automated Business Growth and Data Dashboard](Automate%20your%20Business%20growth%20and%20Data%20Dashboards.webp)
 ### Smart Automation Hub
 ![Smart Automation Hub](Smart%20Automation%20Hub%20Dynamic%20Charts%20_%20Error%20Free%20Logic.webp)
 
