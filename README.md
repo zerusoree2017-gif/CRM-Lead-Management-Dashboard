@@ -69,8 +69,8 @@ Lead Source → CRM Database → Google Sheets → KPI Dashboard → Gmail Notif
 ![Automated Sales CRM Workflow](Automated Sales CRM Setup stop Manual work.webp)
 ### CRM, Zapier, Gmail & KPI Dashboard
  ![CRM Dashboard](CRM_%20Zapier%20_%20Gmail%20and%20KPI%20dashboard_%20Data%20Cleaning.webp)
-### CRM Data Management Dashboard
-![CRM Data Management Dashboard](CRM_Data_Management_Sample.webp)
+### CRM_Data_Management_Sample
+![CRM Data Management Dashboard](CRM_Data_Management_Sample.png)
 ### Custom Google Sheets Lead Tracking Dashboard
 ![Custom Google Sheets Lead Tracking Dashboard](Custom Google Sheets Lead Tracking Dashboard with CRM Automation.webp)
 ### Automated KPI Dashboard
