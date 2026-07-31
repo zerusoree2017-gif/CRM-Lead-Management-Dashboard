@@ -65,6 +65,8 @@ Lead Source → CRM Database → Google Sheets → KPI Dashboard → Gmail Notif
 - Advanced workflow automation
 
 ## 📸 Project Screenshots
+### Smart Automation Hub
+![Smart Automation Hub](Smart%20Automation%20Hub%20Dynamic%20Charts%20_%20Error%20Free%20Logic.webp)
 ### Automated Sales CRM Setup stop Manual work
 ![Automated Sales CRM Workflow](Automated%20Sales%20CRM%20Setup%20stop%20Manual%20work.webp)
 ### CRM, Zapier, Gmail & KPI Dashboard
@@ -75,8 +77,6 @@ Lead Source → CRM Database → Google Sheets → KPI Dashboard → Gmail Notif
 ![Custom Google Sheets Lead Tracking Dashboard](Custom%20Google%20Sheets%20Lead%20Tracking%20Dashboard%20with%20CRM%20Automation.webp)
 ### Automate your Business growth and Data Dashboards
 ![Automated Business Growth and Data Dashboard](Automate%20your%20Business%20growth%20and%20Data%20Dashboards.webp)
-### Smart Automation Hub
-![Smart Automation Hub](Smart%20Automation%20Hub%20Dynamic%20Charts%20_%20Error%20Free%20Logic.webp)
 
 ## 👨‍💻 About Me
 I help businesses automate CRM workflows, reporting systems, and repetitive tasks using HubSpot, Google Sheets, Google Workspace, Zapier, Google Apps Script, and n8n.
