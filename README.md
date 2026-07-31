@@ -65,8 +65,8 @@ Lead Source → CRM Database → Google Sheets → KPI Dashboard → Gmail Notif
 - Advanced workflow automation
 
 ## 📸 Project Screenshots
-### Automated Sales CRM Workflow
-![Automated Sales CRM Workflow](Automated Sales CRM Setup stop Manual work.webp)
+### Automated Sales CRM Setup stop Manual work
+![Automated Sales CRM Workflow](Automated%20Sales%20CRM%20Setup%20stop%20Manual%20work.webp)
 ### CRM, Zapier, Gmail & KPI Dashboard
  ![CRM Dashboard](CRM_%20Zapier%20_%20Gmail%20and%20KPI%20dashboard_%20Data%20Cleaning.webp)
 ### CRM_Data_Management_Sample
