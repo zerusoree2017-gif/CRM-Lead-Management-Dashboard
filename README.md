@@ -245,13 +245,21 @@ My goal is to eliminate repetitive work, improve data accuracy, and build automa
 ## ⭐ Why Hire Me?
 
 ✔ CRM & Lead Automation Specialist
+---
 ✔ Business Process Automation
+---
 ✔ HubSpot CRM Expert
+---
 ✔ Google Sheets Automation
+---
 ✔ Zapier & n8n Workflows
+---
 ✔ KPI Dashboard Development
+---
 ✔ AI Automation Solutions
+---
 ✔ Professional Documentation
+---
 ✔ Business-Focused Solutions
 ---
 
