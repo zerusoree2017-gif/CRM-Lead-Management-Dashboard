@@ -83,35 +83,52 @@ Google Sheets
 Google Apps Script
 
 ↓
+
 Data Cleaning
 
 ↓
+
 KPI Calculations
+
 ↓
+
 Interactive Dashboard
+
 ↓
+
 Automated Gmail Notifications
+
 ↓
+
 Business Reports
+
 ---
 
 ## ⚙️ Automation Workflow
 
 Website Forms
+
 ↓
 CRM Lead Capture
+
 ↓
 HubSpot CRM
+
 ↓
 Google Sheets Automation
+
 ↓
 Lead Cleaning
+
 ↓
 KPI Dashboard
+
 ↓
 Gmail Alerts
+
 ↓
 Business Reports
+
 ---
 
 ## 💼 Business Value
