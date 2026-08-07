@@ -75,11 +75,16 @@ Lead Sources
 HubSpot CRM
 
 ↓
+
 Google Sheets
+
 ↓
+
 Google Apps Script
+
 ↓
 Data Cleaning
+
 ↓
 KPI Calculations
 ↓
