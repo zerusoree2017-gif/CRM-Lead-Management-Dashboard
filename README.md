@@ -69,8 +69,11 @@ Result:
 ## 🏗️ Technical Architecture
 
 Lead Sources
+
 ↓
+
 HubSpot CRM
+
 ↓
 Google Sheets
 ↓
@@ -242,8 +245,7 @@ https://www.upwork.com/freelancers/~010472b5935fc59690
 https://www.fiverr.com/zerihunabera413
 
 **LinkedIn**
-
-(Add LinkedIn)
+www.linkedin.com/in/zerihun-abera13
 
 ---
 
